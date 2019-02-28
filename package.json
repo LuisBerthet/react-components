@@ -1,7 +1,7 @@
 {
   "name": "react-node-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "React concepts",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon --exec babel-node  src/server.js"
